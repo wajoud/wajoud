@@ -3,6 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=1.5%2B+Years+of++ML+modules+Developments+" alt="Typing SVG" /></a>
 </p>
 
+<p align="right"> <h3>Profile:-</h3>  
+  </p>
+
 <p><img align="right" src="https://github.com/wajoud/wajoud/blob/main/animation_500_kxa883sd.gif" alt="Wajoud-pw" /></p>
 
 ![Dino](https://github.com/wajoud/wajoud/blob/main/dino.gif)
