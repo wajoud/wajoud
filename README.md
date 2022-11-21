@@ -6,7 +6,7 @@
 <p align="right"> <h3>Profile:-</h3>  
   </p>
 
-<p><img align="right" src="https://github.com/wajoud/wajoud/blob/main/animation_500_kxa883sd.gif" alt="Wajoud-pw" /></p>
+<p><img align="right" src="https://github.com/wajoud/wajoud/blob/main/animation_500_kxa883sd.gif" alt="wajoud" /></p>
 
 ![Dino](https://github.com/wajoud/wajoud/blob/main/dino.gif)
 
