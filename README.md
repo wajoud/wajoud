@@ -10,10 +10,12 @@
 <p><img align="right" src="https://github.com/wajoud/wajoud/blob/main/animation_500_kxa883sd.gif" alt="wajoud" /></p>
 
 
--🔭 I’m currently working on creating a end to end Pipeline, with G-streamer which helps in connecting the surveillance system with the machine learning pipeline which consist of detection(person, car, Elephent), activity detection , tracking of bounding boxes. 
+-🔭 I’m a developer working on creating end to end Data science Pipeline, with G-streamer as a bridge to connect the surveillance system with the machine learning Modules such as detection(person, car, Elephent), activity detection, and tracking of bounding boxes. 
 
 
--🌱 I’m currently learning ...
+-🌱 I’m currently learning the Different concepts of Machine learning algorithms, using reinforcement learning as a strategy for my learning process, by rewarding myself on every achievement toward ML
+
+-⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
