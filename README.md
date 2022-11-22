@@ -32,7 +32,7 @@
   <a href="mailto:wajoudnoorani59@gmail.com" target="blank"><img align="center"
       src="https://github.com/wajoud/wajoud/blob/main/Gmail.svg"
       alt="wajoud" height="30" width="40" /></a>
-  <a href="https://https://www.hackerrank.com/wajoudnoorani59" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/WajoudNoorani?hr_r=1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="wajoud" height="30" width="40" /></a>
 
