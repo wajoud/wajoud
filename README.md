@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Data Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=1.5%2B+Years+of++ML+modules+Developments+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=1.5%2B+Years+of++ML+modules+Developments+" alt="Typing SVG" ></a>
 </p>
 
 <br>
@@ -17,9 +17,32 @@
 
 -⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
+-📫 How to reach me **wajoudnoorani59@gmail.com**
+
 <br>
+</p>
 
 ![Dino](https://github.com/wajoud/wajoud/blob/main/dino.gif)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="www.linkedin.com/in/wajoud-noorani-7b6054118" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+ <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **wajoud/wajoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
