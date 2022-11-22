@@ -7,7 +7,7 @@
 
 <p align="right"> <h3>Profile:-</h3>  
   </p>
-<p><img align="right" src="https://github.com/wajoud/wajoud/blob/main/animation_500_kxa883sd.gif" alt="wajoud" /></p>
+<p><img align="right" src="https://github.com/wajoud/wajoud/blob/main/animation_500_kxa883sd.gif" alt="wajoud" height="400" width="390"/></p>
 
 
 -🔭 I’m a developer working on creating end to end Data science Pipeline, with G-streamer as a bridge to connect the surveillance system with the machine learning Modules such as detection(person, car, Elephent), activity detection, and tracking of bounding boxes. 
