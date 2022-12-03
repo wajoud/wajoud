@@ -29,13 +29,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wajoud-noorani-7b6054118" target="blank"><img align="center"
-      src="https://github.com/wajoud/wajoud/blob/main/linkedin.svg"
+      src="https://drive.google.com/uc?export=view&id=1j44_xAF0ozkz83HC1dvimPcfQo_hQ0xD"
       alt="wajoud" height="25" width="30" /></a>
   <a href="mailto:wajoudnoorani59@gmail.com" target="blank"><img align="center"
-      src="https://github.com/wajoud/wajoud/blob/main/Gmail.svg"
+      src="https://drive.google.com/uc?export=view&id=1YBhGxP-3hK4_zAtxa0xHnEbiIlsqTcyA"
       alt="wajoud" height="25" width="30" /></a>
   <a href="https://www.hackerrank.com/WajoudNoorani?hr_r=1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://drive.google.com/uc?export=view&id=1NU-fYzAcUUq2FSyMZH_8J42tSzGTOZIy"
       alt="wajoud" height="35" width="45" /></a>
 
 </p>
