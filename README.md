@@ -23,7 +23,7 @@
 </p>
 
 <!-- ![Dino](https://github.com/wajoud/wajoud/blob/main/dino.gif) -->
-<h3 align="center"><img src="https://github.com/wajoud/wajoud/blob/main/astronaut-in-tea-break.gif" hight="350" width="350"></h3>
+<h3 align="center"><img src="https://drive.google.com/uc?export=view&id=1XRfqvUeJpstLYmafCEU_8J7YOv54OI-z" hight="350" width="350"></h3>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
