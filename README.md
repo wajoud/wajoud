@@ -1,59 +1,51 @@
-<h1 align="center"><img src="https://drive.google.com/uc?export=view&id=1EeT4HV0-EnWHnLQgPoOm_jrczQ_EDgH8" hight="30" width="30"> Data Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Wajoud Noorani 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
+<h2 align="center">🚀 Data Scientist | Machine Learning Enthusiast 🚀</h2>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=3%2B+Years+of++ML+modules+Developments+" alt="Typing SVG" ></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Passionate+about+Data+Science+and+ML;3%2B+Years+of+Experience+in+ML+Development;Creating+End-to-End+Data+Science+Pipelines" alt="Typing SVG" ></a>
 </p>
-
-<br>
-
-<p align="right"> <h3>Profile:-</h3>  
-  </p>
-<p><img align="right" src="https://drive.google.com/uc?export=view&id=12AJ3jWoI7O93GhGLC4pwxi_uNlUqCBCA" alt="wajoud" height="400" width="390"/></p>
-
-
--🔭 I’m a developer working on creating end to end Data science Pipeline, with G-streamer as a bridge to connect the surveillance system with the machine learning Modules such as detection(person, car, Elephent), activity detection, and tracking of bounding boxes. 
-
-
--🌱 I’m currently learning the Different concepts of Machine learning algorithms, using reinforcement learning as a strategy for my learning process, by rewarding myself on every achievement toward ML
-
--⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
--📫 How to reach me **wajoudnoorani59@gmail.com**
-
-<br>
-</p>
-
-<!-- ![Dino](https://github.com/wajoud/wajoud/blob/main/dino.gif) -->
-<h3 align="center"><img src="https://drive.google.com/uc?export=view&id=1XRfqvUeJpstLYmafCEU_8J7YOv54OI-z" hight="350" width="350"></h3>
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wajoud-noorani-7b6054118" target="blank"><img align="center"
-      src="https://drive.google.com/uc?export=view&id=1j44_xAF0ozkz83HC1dvimPcfQo_hQ0xD"
-      alt="wajoud" height="25" width="30" /></a>
-  <a href="mailto:wajoudnoorani59@gmail.com" target="blank"><img align="center"
-      src="https://drive.google.com/uc?export=view&id=1YBhGxP-3hK4_zAtxa0xHnEbiIlsqTcyA"
-      alt="wajoud" height="25" width="30" /></a>
-  <a href="https://www.hackerrank.com/WajoudNoorani?hr_r=1" target="blank"><img align="center"
-      src="https://drive.google.com/uc?export=view&id=1NU-fYzAcUUq2FSyMZH_8J42tSzGTOZIy"
-      alt="wajoud" height="35" width="45" /></a>
+  <img src="https://drive.google.com/uc?export=view&id=12AJ3jWoI7O93GhGLC4pwxi_uNlUqCBCA" width="250" height="250" />
+</p>
 
+---
+
+### About Me 📘
+
+- 🔭 I’m currently working on **developing end-to-end Data Science pipelines**, leveraging **G-streamer** to bridge surveillance systems with advanced ML modules such as object detection and activity tracking.
+
+- 🌱 I'm on a learning journey with **Machine Learning algorithms**, embracing **reinforcement learning** strategies to fuel my growth in the field.
+
+- ⚡ Fun fact: I believe **food and music** are the essence of life.
+
+---
+
+### Connect with Me 🌟
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/wajoud-noorani-7b6054118">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:wajoudnoorani59@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Personal Website -->
+  <a href="https://wajoudnoorani.com/">
+    <img alt="Personal Website" src="https://img.shields.io/badge/Website-%230A0A0A.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <!-- Medium -->
+  <a href="https://medium.com/@wajoudnoorani59">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 
-<!--
-**wajoud/wajoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Let's make something amazing together!</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1XRfqvUeJpstLYmafCEU_8J7YOv54OI-z" width="300" height="300"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-*** Importany https://drive.google.com/uc?export=view&id=<FILE_ID>***
-- git changes 
--->
