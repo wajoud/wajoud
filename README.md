@@ -13,11 +13,15 @@
 
 ### About Me 📘
 
+- 🔍 I’m actively engaged in **NLP and Large Language Models (LLMs)** projects, exploring cutting-edge techniques to push the boundaries of what's possible in language understanding.
+
 - 🔭 I’m currently working on **developing end-to-end Data Science pipelines**, leveraging **G-streamer** to bridge surveillance systems with advanced ML modules such as object detection and activity tracking.
 
-- 🌱 I'm on a learning journey with **Machine Learning algorithms**, embracing **reinforcement learning** strategies to fuel my growth in the field.
+- 🌱 I'm on a learning journey with **Machine Learning algorithms**, embracing **reinforcement learning** strategies to fuel my growth in the field. I have a strong passion for **computer vision** and enjoy working on related projects.
 
-- ⚡ Fun fact: I believe **food and music** are the essence of life.
+- 💼 As a **full-stack data scientist**, I specialize in creating and optimizing **end-to-end data pipelines**, ensuring seamless data flow from extraction to actionable insights.
+
+- ⚡ **Fun fact**: I like to think of data as the melody of information, and algorithms as the rhythm that brings it to life. Just like a good playlist, a well-tuned model can make everything better!
 
 ---
 
@@ -42,10 +46,8 @@
   </a>
 </p>
 
-
 <h3 align="center">Let's make something amazing together!</h3>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1XRfqvUeJpstLYmafCEU_8J7YOv54OI-z" width="300" height="300"/>
 </p>
-
