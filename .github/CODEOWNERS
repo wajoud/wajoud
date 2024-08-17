@@ -1,0 +1,6 @@
+# This section applies to all files in the repository
+*    @wajoud
+
+# Specific rules can be added for certain files or directories
+# For example, for the main branch:
+main/*    @wajoud
