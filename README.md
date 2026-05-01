@@ -46,14 +46,16 @@ I'm a **Senior Data Scientist & LLM Engineer** specializing in **Agentic AI**, *
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wajoud/wajoud/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wajoud/wajoud/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/wajoud/wajoud/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wajoud&theme=tokyonight&hide_border=true&background=0a0a1a&stroke=1e3a8a&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=475569" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wajoud&bg_color=0a0a1a&color=60A5FA&line=1e3a8a&point=60A5FA&area_color=1e3a8a&area=true&hide_border=true&radius=6" width="100%"/>
+
 </div>
 
 ---
