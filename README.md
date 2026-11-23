@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,50:0f172a,100:1e3a8a&height=220&section=header&text=Wajoud%20H%20Noorani&fontSize=56&fontColor=E0F2FE&fontAlignY=40&desc=Senior%20Data%20Scientist%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20Agentic%20AI%20Architect&descAlignY=62&descSize=16&descColor=93C5FD&animation=fadeIn&stroke=60A5FA&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,100:1e3a8a&height=200&section=header&text=Wajoud%20H%20Noorani&fontSize=52&fontColor=E0F2FE&fontAlignY=38&desc=Senior%20Data%20Scientist%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20Agentic%20AI%20Architect&descAlignY=58&descSize=16&descColor=93C5FD&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=%3E+initializing+agent...+%E2%9C%93;%3E+loading+knowledge_graph+%5BNeo4j%5D+%E2%9C%93;%3E+streaming+events+%5BKafka%5D+%E2%9C%93;%3E+Building+AI+that+reasons%2C+adapts+%26+acts+%F0%9F%A7%A0;%3E+365-Day+LLM+Mastery+%E2%80%94+building+in+public+%F0%9F%94%A5" alt="Typing SVG"/>
 
@@ -69,12 +69,11 @@ class Wajoud:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wajoud&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajoud&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=60A5FA&text_color=CBD5E1" height="165"/>
+<!-- transparent backgrounds + mid-tone colors so cards blend into both GitHub light and dark themes -->
+<img src="https://github-readme-stats.vercel.app/api?username=wajoud&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=64748B" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=wajoud&hide_border=true&background=00000000&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&sideLabels=64748B&dates=64748B" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=wajoud&theme=tokyonight&hide_border=true&background=0a0a1a&stroke=1e3a8a&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=475569" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wajoud&bg_color=0a0a1a&color=60A5FA&line=1e3a8a&point=60A5FA&area_color=1e3a8a&area=true&hide_border=true&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wajoud&bg_color=00000000&color=64748B&title_color=3B82F6&line=3B82F6&point=3B82F6&area_color=3B82F6&area=true&hide_border=true&radius=6" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wajoud/wajoud/output/github-contribution-grid-snake-dark.svg"/>
